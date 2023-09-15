@@ -1,2 +1,2 @@
 # CT3-FA23
-A repository for assignments of Creative Technology 3 in Fall 23.
+A collection works of Creative Technology 3 in Fall 23.
