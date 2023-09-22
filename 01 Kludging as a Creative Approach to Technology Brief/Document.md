@@ -1,6 +1,6 @@
 # Kludging as a Creative Approach to Technology Brief
 
-## Reference Project
+## Refer Project
 > https://www.neilmendoza.com/portfolio/spambots/
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b81ead66-52dc-48be-a51e-838e229f447a)
