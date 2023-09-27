@@ -9,10 +9,15 @@
 
 <img width="1496" alt="Original Diagram" src="https://github.com/pfyuan110/CT3-FA23/assets/113642868/2f802b19-ea16-4b08-8bf3-6752548fba67">
 
-## My Prototype
+## Proposal
 - Focus on the Visualization part.
 - Connect ChatGPT with Processing to generate and display modified text from George Orwell's Animal Farm.
 - Randomly replace some animal-related words with human-related words.
 - Simply build the connection between physical part with Processing, such as some buttons. Keep the mechanism simple.
 
 <img width="419" alt="My Diagram" src="https://github.com/pfyuan110/CT3-FA23/assets/113642868/45cc5b3b-d178-443a-a421-3549fc2289ed">
+
+## Attempt 1
+I tried to ChatGPT API in Node.js and it could be run in VS Code terminal. But I didn't have enough time to keep on making the user input part through server. So I kept on focusing on the text process in P5JS.
+
+## Attempt 2
