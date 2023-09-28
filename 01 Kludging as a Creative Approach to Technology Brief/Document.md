@@ -17,7 +17,11 @@
 
 <img width="419" alt="My Diagram" src="https://github.com/pfyuan110/CT3-FA23/assets/113642868/45cc5b3b-d178-443a-a421-3549fc2289ed">
 
-## Attempt 1
-I tried to ChatGPT API in Node.js and it could be run in VS Code terminal. But I didn't have enough time to keep on making the user input part through server. So I kept on focusing on the text process in P5JS.
+## P5JS
+> https://editor.p5js.org/pfyuan110/sketches/AdecB13T8
 
-## Attempt 2
+## API
+I tried to use ChatGPT API in Node.js and it could be run in terminal.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b88f4c7a-dca5-4042-b36c-d9965b699782)
+I am still trying to make the user input part through server or use API in P5JS web editor.
