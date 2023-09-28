@@ -9,14 +9,12 @@ const openai = new OpenAI({
 });
 
 const getResponse = async () => {
-    const response = await openai.completions.create ({
+    const completion = await openai.chat.completions.create({
+        messages: [{ role: "system", content: "You are a helpful assistant." }],
         model: "gpt-3.5-turbo",
-        prompt: "Say this is a test.",
-        max_tokens: 7,
-        temperature: 0,
       });
 
-    console.log(response);
+    console.log(completion.choices[0]);
 }
 
 getResponse();
