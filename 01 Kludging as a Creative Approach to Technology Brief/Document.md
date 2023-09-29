@@ -20,6 +20,11 @@
 ## P5JS
 > https://editor.p5js.org/pfyuan110/sketches/AdecB13T8
 
+Press any key and random words will be replaced by word "human" and change the background color.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/77ac5fc8-5a16-4562-bfdb-8e853d278ed4)
+
+
 ## API
 I tried to use ChatGPT API in Node.js and it could be run in terminal.
 
