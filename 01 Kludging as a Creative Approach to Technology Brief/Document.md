@@ -20,9 +20,10 @@
 ## P5JS
 > https://editor.p5js.org/pfyuan110/sketches/AdecB13T8
 
-Press any key and random words will be replaced by word "human" and change the background color.
+Press any key and any words ended with letter 's' will be replaced by word "human" and the background color will be changed.
 
-![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/77ac5fc8-5a16-4562-bfdb-8e853d278ed4)
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/f5455f1a-db55-4d24-9d8e-e39891af7df1)
+
 
 
 ## API
