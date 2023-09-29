@@ -24,10 +24,17 @@ Press any key and any words ended with letter 's' will be replaced by word "huma
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/f5455f1a-db55-4d24-9d8e-e39891af7df1)
 
+### Iteration:
+Press any key and there will be three kinds of text interaction. 
+- Any words ended with letter 's' will be replaced by word "human" and the background color will be changed.
+- Any words ended with letter 's' will be replaced by emoji related to human.
+- Random animal emojis will fly around the canvas.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/0db09d95-2e15-40b7-823b-5c3a5039a8bc)
 
 
 ## API
 I tried to use ChatGPT API in Node.js and it could be run in terminal.
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b88f4c7a-dca5-4042-b36c-d9965b699782)
-I am still trying to make the user input part through server or use API in P5JS web editor.
+I will keep trying to make the user input part through server or use API in P5JS web editor.
