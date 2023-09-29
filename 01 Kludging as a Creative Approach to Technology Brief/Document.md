@@ -38,7 +38,7 @@ I tried to use ChatGPT API in Node.js and it could be run in terminal.
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b88f4c7a-dca5-4042-b36c-d9965b699782)
 
-The P5js was needed to be added into local server. I used Node.js to write it, as P5.js needs to be implemented within Node.js, which I still need to try. But there is no precedent for this :(
+The P5js was needed to be added into local server. I used Node.js to write it, as P5.js needs to be implemented within Node.js, which I still need to try.
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/d196439e-b309-4625-9c04-954c3a8361d8)
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/caf8cc3a-c522-4d2a-ba5f-12b5997d1603)
