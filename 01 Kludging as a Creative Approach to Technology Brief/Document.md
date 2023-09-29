@@ -20,8 +20,27 @@
 ## P5JS
 > https://editor.p5js.org/pfyuan110/sketches/AdecB13T8
 
+Press any key and any words ended with letter 's' will be replaced by word "human" and the background color will be changed.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/f5455f1a-db55-4d24-9d8e-e39891af7df1)
+
+### Iteration:
+Press any key and there will be three kinds of text interaction. 
+- Any words ended with letter 's' will be replaced by word "human" and the background color will be changed.
+- Any words ended with letter 's' will be replaced by emoji related to human.
+- Random animal emojis will fly around the canvas.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/0db09d95-2e15-40b7-823b-5c3a5039a8bc)
+
+
 ## API
 I tried to use ChatGPT API in Node.js and it could be run in terminal.
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b88f4c7a-dca5-4042-b36c-d9965b699782)
-I am still trying to make the user input part through server or use API in P5JS web editor.
+
+The P5js was needed to be added into local server. I used Node.js to write it, as P5.js needs to be implemented within Node.js, which I still need to try. But there is no precedent for this :(
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/d196439e-b309-4625-9c04-954c3a8361d8)
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/caf8cc3a-c522-4d2a-ba5f-12b5997d1603)
+
+
