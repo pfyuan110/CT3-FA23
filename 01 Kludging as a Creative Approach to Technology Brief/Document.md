@@ -32,6 +32,9 @@ Press any key and there will be three kinds of text interaction.
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/0db09d95-2e15-40b7-823b-5c3a5039a8bc)
 
+https://github.com/pfyuan110/CT3-FA23/assets/113642868/1eac0d62-634d-433e-850e-e0172cdb2862
+
+
 
 ## API
 I tried to use ChatGPT API in Node.js and it could be run in terminal.
