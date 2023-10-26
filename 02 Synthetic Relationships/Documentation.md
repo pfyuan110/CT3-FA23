@@ -21,7 +21,7 @@ I am responsible for receiving distance data and converting it into volume, and 
 #define pResistor A2
 
 AdafruitIO_Feed *myPFeed = io.feed("p_feed");
-//AdafruitIO_Feed *JYFeed = io.feed("xx");
+AdafruitIO_Feed *JYFeed = io.feed("tech3-group-project","JINYU");
 
 void setup() {
   Serial.begin(115200);
@@ -31,7 +31,7 @@ void setup() {
   Serial.print("Connecting to Adafruit IO");
   io.connect();
 
-  //JYFeed->onMessage(handleMessage);
+  JYFeed->onMessage(handleMessage);
 
   while(io.status() < AIO_CONNECTED) {
     Serial.print(".");
@@ -40,7 +40,7 @@ void setup() {
 
   Serial.println();
   Serial.println(io.statusText());
-  //JYFeed->get();
+  JYFeed->get();
 
   pinMode(pResistor, INPUT);
 }
@@ -51,20 +51,20 @@ void loop() {
   int value = analogRead(pResistor);
 
   //Serial.print("sending -> ");
-  Serial.println(value);
+  //Serial.println(value);
   myPFeed->save(value);
   delay(2000);
 }
 
 void handleMessage(AdafruitIO_Data *data) {
 
-  Serial.print("received <- ");
+  //Serial.print("received <- ");
   Serial.println(data->value());
 }
 ```
 
 ### Processing
-I use processing to play the sound and change its volume.
+I use processing to play the sound and process distance data into volume.
 ```
 import processing.serial.*;
 import processing.sound.*;
@@ -81,7 +81,7 @@ void setup(){
   myPort = new Serial(this, portName, 115200);
   
   sFile = new SoundFile(this, "relax-ambient-music.mp3");
-  sFile.play();
+  sFile.loop();
 }
 
 void draw(){
@@ -96,7 +96,7 @@ void draw(){
   println(getVal);
   }
   
-  sAmp = map(getVal, 0, 2500, 0, 1.0);
+  sAmp = map(getVal, 0, 140, 0, 1.0);
   sFile.amp(sAmp);
   
   println(sAmp);
@@ -104,3 +104,16 @@ void draw(){
 ```
 
 ## Final Installation
+![微信图片_20231025205135](https://github.com/pfyuan110/CT3-FA23/assets/113642868/c902a4f0-c7d2-4468-8235-c3a78433113d)
+
+## Data Transfer
+- Uploading Data of Photoresistor
+
+![微信截图_20231025201804](https://github.com/pfyuan110/CT3-FA23/assets/113642868/9cb21697-7f8f-4b77-aa93-cecf8751786a)
+
+- Receiving Data from Distance Sensor
+
+![微信截图_20231025202539](https://github.com/pfyuan110/CT3-FA23/assets/113642868/decda7f7-579f-4d8a-9394-e485d8465d06)
+
+## Video
+https://vimeo.com/878148501
