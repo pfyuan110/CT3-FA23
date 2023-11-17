@@ -44,6 +44,7 @@ The export setting:
 
 - Change the color. Green means friendly AI while red means aggresive AI.
 
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/08c35e4e-14ae-4917-b134-f309529ba522)
 
 
 ## Final Output Video
