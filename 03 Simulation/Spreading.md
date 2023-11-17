@@ -7,6 +7,30 @@
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/109ba127-d825-4a3d-ba49-a4b58adc971a)
 
 ## Process
+1. Import the models and animations.
 
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/ba5ac246-b750-4704-8356-5ebd03d00036)
+
+2. Spreading Mechanism <br/>
+Reference: [Convey's game of life](https://playgameoflife.com/). <br/>
+See [SpreadControl.cs]().
+
+3. Build the user interface
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/25f0cd08-5f95-4d67-9ac2-cb1ddcfa0138)
+The three questions and options control different properties. <br/>
+- Steay / progressive / accelerated: spread slowly / steadily / quickly <br/>
+- Collabractive / dominating: more green color / red color <br/>
+- Everyone / select groups / no one: matrix scale 40x40 / 7x7 / 1x1 <br/>
+
+4. Transfer data between scenes
+5. Objects face to cursor
+See [FaceToMouse.cs]()
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b983078c-0bd0-4152-9b4d-73f0ed40d66b)
+The model's default rotation went wrong 
+
+
+7. 
 
 ## Final Output Video
