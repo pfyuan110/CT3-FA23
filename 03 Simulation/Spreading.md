@@ -24,13 +24,26 @@ The three questions and options control different properties. <br/>
 - Everyone / select groups / no one: matrix scale 40x40 / 7x7 / 1x1 <br/>
 
 4. Transfer data between scenes
-5. Objects face to cursor
-See [FaceToMouse.cs]()
+5. Objects face to cursor <br/>
+See [FaceToMouse.cs]() <br/>
 
-![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b983078c-0bd0-4152-9b4d-73f0ed40d66b)
-The model's default rotation went wrong 
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b983078c-0bd0-4152-9b4d-73f0ed40d66b) <br/>
+The model's default rotation was not what I want. I need to change them in Blender and export them again. <br/>
+The export setting:
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/67bbddc6-1531-4682-9414-2c659f018835)
+
+6. Add some visual details
+- All characters walk on earth.
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/f63b0e8b-4a6d-4287-9ad7-153ec30b8b08)
+
+- All characters face to cursor (chatGPT)
+
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/5348f010-efb0-43a4-a21c-4262a85d835c)
+
+- Change the color. Green means friendly AI while red means aggresive AI.
 
 
-7. 
 
 ## Final Output Video
