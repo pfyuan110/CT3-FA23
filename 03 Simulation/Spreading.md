@@ -13,7 +13,8 @@
 
 2. Spreading Mechanism <br/>
 Reference: [Convey's game of life](https://playgameoflife.com/). <br/>
-See [SpreadControl.cs]().
+See [SpawnControl.cs](https://github.com/pfyuan110/CT3-FA23/blob/main/03%20Simulation/SpawnControl.cs). <br/>
+See [SpreadControl.cs](https://github.com/pfyuan110/CT3-FA23/blob/main/03%20Simulation/SpreadControl.cs).
 
 3. Build the user interface
 
@@ -25,7 +26,7 @@ The three questions and options control different properties. <br/>
 
 4. Transfer data between scenes
 5. Objects face to cursor <br/>
-See [FaceToMouse.cs]() <br/>
+See [FaceToMouse.cs](https://github.com/pfyuan110/CT3-FA23/blob/main/03%20Simulation/FaceToMouse.cs) <br/>
 
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/b983078c-0bd0-4152-9b4d-73f0ed40d66b) <br/>
 The model's default rotation was not what I want. I need to change them in Blender and export them again. <br/>
