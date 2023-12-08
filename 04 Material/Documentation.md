@@ -82,4 +82,6 @@ void mainImage( out vec4 fragColor, in vec2 fragCoord )
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/80d642c9-43e1-4eba-adf8-5662cca34cc3)
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/575b485d-5aef-40cd-b15c-3c8cffea3e39)
 ![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/f3e1ac35-5548-4c1e-8f1b-3da917874759)
-
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/df7bafd5-30b5-47aa-b52b-c72f974a3ac4)
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/e38a2f23-573e-4d90-9bf3-b10f71089a6b)
+![image](https://github.com/pfyuan110/CT3-FA23/assets/113642868/9f90d1ce-fc47-425d-a0cb-d47f68478b89)
